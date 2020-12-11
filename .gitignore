@@ -1,2 +1,9 @@
-build/
-node_modules/
+#VSCode
+workspace.code-workspace
+
+# Mode.JS
+node_modules
+
+#Hardhat files
+artifacts/
+cache/
