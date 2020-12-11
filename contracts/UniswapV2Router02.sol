@@ -1,8 +1,8 @@
 // SPDX-License-Identifier: MIT
-pragma solidity 0.7.4;
+pragma solidity 0.7.5;
 
-import '@uniswap/v2-core/contracts/interfaces/IUniswapV2Factory.sol';
-import '@uniswap/lib/contracts/libraries/TransferHelper.sol';
+import './dependencies/uniswap-v2-core/contracts/interfaces/IUniswapV2Factory.sol';
+import './dependencies/uniswap-lib/contracts/libraries/TransferHelper.sol';
 
 import './interfaces/IUniswapV2Router02.sol';
 import './libraries/UniswapV2Library.sol';
