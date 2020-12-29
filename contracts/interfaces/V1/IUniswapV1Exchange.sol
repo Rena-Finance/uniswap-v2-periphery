@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity 0.7.6;
+pragma solidity 0.7.5;
 
 interface IUniswapV1Exchange {
     function balanceOf(address owner) external view returns (uint);

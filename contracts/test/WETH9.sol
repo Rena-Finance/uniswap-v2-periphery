@@ -14,7 +14,7 @@
 // along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 // SPDX-License-Identifier: MIT
-pragma solidity 0.7.6;
+pragma solidity 0.7.5;
 
 contract WETH9 {
     string public name     = "Wrapped Ether";

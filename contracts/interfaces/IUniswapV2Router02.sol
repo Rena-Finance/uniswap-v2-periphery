@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity 0.7.6;
+pragma solidity 0.7.5;
 
 import './IUniswapV2Router01.sol';
 
